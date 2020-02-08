@@ -1,0 +1,2 @@
+import benchmark
+benchmark.run()
